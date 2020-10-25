@@ -26,7 +26,7 @@ In the second module, a dense motion network combines the local approximations t
 driving video.
 
 <p align="center">
-  <img src="./images/detailed_architecture.png" width=60% height=60% />
+  <img src="./images/detailed_architecture.PNG" width=60% height=60% />
 </p>
 
 ### Code implementation
